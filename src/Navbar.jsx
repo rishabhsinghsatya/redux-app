@@ -33,7 +33,7 @@ const Navbar = () => {
               </li>
             </ul>
             <div>
-              <button className="btn-primary">balance:10000</button>
+              <button className="btn-primary">balance: ₹0</button>
             </div>
           </div>
         </div>
